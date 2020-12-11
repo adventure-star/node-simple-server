@@ -6,8 +6,8 @@ This server can be used to retrieve transferred data from various kinds of http 
 
 ### Install Node Packages
 
-run 'npm install' or 'npm i' briefly.
+run `npm install` or `npm i` briefly.
 
 ### Start server
 
-run 'npm start'
+run `npm start`
