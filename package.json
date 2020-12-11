@@ -1,0 +1,24 @@
+{
+  "name": "aa",
+  "version": "1.0.0",
+  "description": "aa",
+  "main": "aa",
+  "scripts": {
+    "test": "aa",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "aa"
+  },
+  "keywords": [
+    "aa"
+  ],
+  "author": "aa",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
